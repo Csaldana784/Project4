@@ -10,7 +10,7 @@ HTML
 CSS
 JavaScript (React)
 
-**Getting Started**
+**Getting Started**:
 To run this project locally, follow these steps:
 
 Clone or Download the Repository
