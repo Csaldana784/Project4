@@ -30,6 +30,5 @@ The results will be displayed below the form, and they are saved in local storag
 Deployment
 You can view the live app here.
 
-GitHub Repository
-Link to GitHub Repository
+https://codesandbox.io/p/sandbox/project4-vxcltz
 
