@@ -1,5 +1,5 @@
 # Project4
-**Sports Results Tracker**
+**Sports Results Tracker**:
 Welcome to the Sports Results Tracker App, a web application designed to help users track and manage sports results.
 
 Summary
