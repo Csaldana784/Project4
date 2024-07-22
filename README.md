@@ -9,6 +9,7 @@ Sports Results Tracker is a simple app that allows users to input and view match
 HTML
 CSS
 JavaScript (React)
+
 **Getting Started**
 To run this project locally, follow these steps:
 
